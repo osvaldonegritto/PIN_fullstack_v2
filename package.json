@@ -1,0 +1,13 @@
+{
+  "name": "fin_fs_v2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass-compile": "sass styles/sass:styles/css",
+    "sass-watch": "sass --watch styles/sass:styles/css"
+  },
+  "author": "",
+  "license": "ISC"
+}
